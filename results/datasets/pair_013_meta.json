@@ -1,0 +1,13 @@
+{
+  "seed": 1013,
+  "architecture": "DRAM",
+  "true_x": 400.0,
+  "true_y": 574.0,
+  "scale_ratio": 10.0,
+  "rotation_deg": 1.0,
+  "noise_severity": 1.25,
+  "image_size": [
+    1000,
+    1000
+  ]
+}
