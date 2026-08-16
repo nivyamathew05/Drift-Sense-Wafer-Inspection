@@ -1,0 +1,13 @@
+{
+  "seed": 1030,
+  "architecture": "FinFET",
+  "true_x": 689.0,
+  "true_y": 256.0,
+  "scale_ratio": 9.75,
+  "rotation_deg": -2.0,
+  "noise_severity": 0.5,
+  "image_size": [
+    1000,
+    1000
+  ]
+}
